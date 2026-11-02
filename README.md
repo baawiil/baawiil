@@ -102,27 +102,26 @@ Mes centres d'intérêt vont du développement web aux projets Discord, en passa
 
 ---
 
-
-<h2>📊 Mon activité GitHub</h2>
+<h2>⚡ Mon univers technique</h2>
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=baawiil&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Statistiques GitHub de Baawiil"
-    width="48%"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=baawiil&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Langages GitHub de Baawiil"
-    width="48%"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode,linux&theme=dark"
+       alt="Technologies de Baawiil">
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=baawiil&theme=tokyonight&hide_border=true"
-    alt="Série de contributions GitHub de Baawiil"
-  />
+  <strong>Développement Web • Discord • Création numérique</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/baawiil?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORER_MES_PROJETS-7C3AED?style=for-the-badge&logo=github&logoColor=white"
+         alt="Explorer mes projets">
+  </a>
+  <a href="https://baawiil.github.io/">
+    <img src="https://img.shields.io/badge/VISITER_MON_PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"
+         alt="Visiter mon portfolio">
+  </a>
 </p>
 
 
