@@ -63,20 +63,53 @@ Mes centres d'intérêt vont du développement web aux projets Discord, en passa
 
 ---
 
-## 🚀 Projets & réalisations
+<h2>🚀 Projets & réalisations</h2>
 
-| Projet | Description | Statut |
-|:---|:---|:---|
-| **PULSE / ÉKO** | Communauté Discord immersive et mascotte virtuelle interactive | 🟡 Conception |
-| **OrbitGG** | Plateforme de référencement de bots et serveurs Discord | 🟡 Conception |
-| **DISASTER SERVICE** | Concept de simulation 3D solo et coopérative | 🟣 Concept |
-| **Portfolio Baawiil** | Portfolio gaming développé avec Tailwind CSS | 🟢 En ligne |
-
-<p align="center">
-  <a href="https://baawiil.github.io/">
-    <img src="https://img.shields.io/badge/DÉCOUVRIR_MON_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Découvrir mon portfolio">
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💜 PULSE / ÉKO</h3>
+      <p><strong>DISCORD • COMMUNAUTÉ</strong></p>
+      <p>
+        Communauté Discord immersive avec progression,
+        personnalisation et mascotte virtuelle interactive.
+      </p>
+      <p>🟡 <strong>En conception</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 OrbitGG</h3>
+      <p><strong>WEB • DISCORD</strong></p>
+      <p>
+        Plateforme de référencement et de découverte
+        de bots et de serveurs Discord.
+      </p>
+      <p>🟡 <strong>En conception</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 DISASTER SERVICE</h3>
+      <p><strong>GAMING • SIMULATION 3D</strong></p>
+      <p>
+        Concept de jeu de simulation solo et coopératif,
+        avec des parties pouvant réunir jusqu'à 8 joueurs.
+      </p>
+      <p>🟣 <strong>Concept</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Portfolio Baawiil</h3>
+      <p><strong>HTML • JAVASCRIPT • TAILWIND CSS</strong></p>
+      <p>
+        Mon portfolio personnel dédié au gaming,
+        à la technologie et à la création numérique.
+      </p>
+      <p>🟢 <strong>En ligne</strong></p>
+      <a href="https://baawiil.github.io/">
+        🌐 Visiter le portfolio
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
