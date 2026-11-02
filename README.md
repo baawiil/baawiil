@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banniere-baawiil.png" alt="Baawiil - Gaming, Tech et Création" width="100%">
+</p>
+
 # <p align="center">🎮 BAAWIIL</p>
 
 <p align="center">
