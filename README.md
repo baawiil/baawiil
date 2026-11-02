@@ -102,25 +102,29 @@ Mes centres d'intérêt vont du développement web aux projets Discord, en passa
 
 ---
 
-## 📊 Mon activité GitHub
+
+<h2>📊 Mon activité GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baawiil&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques GitHub">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=baawiil&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Statistiques GitHub de Baawiil"
+    width="48%"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=baawiil&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Langages GitHub de Baawiil"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baawiil&layout=compact&theme=tokyonight&hide_border=true" alt="Langages GitHub">
+  <img
+    src="https://streak-stats.demolab.com?user=baawiil&theme=tokyonight&hide_border=true"
+    alt="Série de contributions GitHub de Baawiil"
+  />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=baawiil&theme=tokyonight&hide_border=true" alt="Activité GitHub">
-</p>
-
----
-
-<p align="center">
-  <strong>💜 Toujours curieux, toujours en train d'apprendre et de créer.</strong>
-</p>
 
 <p align="center">
   <a href="https://baawiil.github.io/">🌐 Portfolio</a> •
