@@ -11,10 +11,11 @@
 
 <p align="center">
   <a href="https://baawiil.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00c2ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-00c2ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
+  
   <a href="https://github.com/baawiil" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
