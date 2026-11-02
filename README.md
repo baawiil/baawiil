@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <strong>GAMING • TECH • WEB • CRÉATION NUMÉRIQUE</strong>
-</p>
-
-<p align="center">
   <a href="https://baawiil.github.io/">
     <img src="https://img.shields.io/badge/MON_PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
