@@ -95,7 +95,7 @@ Je partage ici mon univers, les compétences que je développe et mon parcours d
 ## 🌐 Mon portfolio
 
 <p align="center">
-  <strong>BAAWIIL — Gaming, Tech & Création</strong>
+  <strong>BAAWIIL - Gaming, Tech & Création</strong>
 </p>
 
 <p align="center">
