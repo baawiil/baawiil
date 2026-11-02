@@ -2,8 +2,6 @@
   <img src="./banniere-baawiil.png" alt="Baawiil - Gaming, Tech et Création" width="100%">
 </p>
 
-# <p align="center">🎮 BAAWIIL</p>
-
 <p align="center">
   <strong>GAMING • TECH • WEB • CRÉATION NUMÉRIQUE</strong>
 </p>
